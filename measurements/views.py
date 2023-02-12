@@ -1,4 +1,4 @@
-from .logic import variables_logic as vl
+
 from django.http import HttpResponse
 from django.core import serializers
 import json
