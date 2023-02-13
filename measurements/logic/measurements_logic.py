@@ -30,9 +30,8 @@ def update_measurement_variable(var_pk,new_var):
 
 def delete_measurement(var_pk):
     measurement=get_measurement(var_pk)
-    nombre=measurement.name
     measurement.delete()
-    return nombre
+    return measurement
 
 
 def create_Measurement(var):
