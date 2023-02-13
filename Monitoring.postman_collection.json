@@ -536,7 +536,7 @@
 			  "header": [],
 			  "body": {
 				"mode": "raw",
-				"raw": "{\r\n    \"Variable\": \"1\",\r\n    \"unit\": \"Celsius\",\r\n    \"value\": 25\r\n,\r\n    \"place\": \"Bogota\"\n\r}",
+				"raw": "{\r\n    \"Variable\": 1,\r\n    \"unit\": \"Celsius\",\r\n    \"value\": 25\r\n,\r\n    \"place\": \"Bogota\"\n\r}",
 				"options": {
 				  "raw": {
 					"language": "json"
